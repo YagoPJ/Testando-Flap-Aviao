@@ -18,4 +18,8 @@
 	3.4 - Alterando a posição que elas vão ser invocadas - ok
 	
 4 - Background
-	4.1 - Criando a sprite do back
+	4.1 - Criando a sprite do back - ok 
+	4.2 - Colocando movimento no back - ok
+
+5 - Pontos
+	
