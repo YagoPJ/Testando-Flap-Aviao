@@ -1,0 +1,21 @@
+1 - Player 
+	1.1 - Importanto as splites do avião - ok
+	1.2 - Criar o objeto do aviao, dar a sprite do aviao e colocar na room - ok
+	1.3 - Caindo ao iniciar o jogo - ok
+	1.4 - Subindo ao aperta espaço - ok
+	1.5 - Simulando a gravidade continua - ok
+	1.6 - Limitando a velocidade do avião - ok
+	1.7 - Reiniciar ao colidir - ok
+	
+2 - Obstaculos
+	2.0 - Criar os sprites das montanhas - ok
+	2.1 - Criar os objetos das montanhas - ok
+	
+3 - Geração procedural dos obstaculos
+	3.1 - Criando evento que se repete - ok
+	3.2 - Invocando as montanhas - ok
+	3.3 - Alterando a frequencia de invocação - ok
+	3.4 - Alterando a posição que elas vão ser invocadas - ok
+	
+4 - Background
+	4.1 - Criando a sprite do back
