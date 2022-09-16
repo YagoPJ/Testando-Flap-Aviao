@@ -7,6 +7,7 @@ pontos = pontos + 0.1 * global.level; // sistema de pontuação
 
 if (pontos = proximo_level)
 {
+	audio_play_sound(snd_up, 2, false);
 	global.level++;
 	proximo_level *= 1.5;
 }
