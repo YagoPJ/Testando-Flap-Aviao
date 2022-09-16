@@ -7,5 +7,8 @@ var montanha1_y = random_range(-128, 0);
 instance_create_layer(864, montanha1_y, "Instances", obj_montanha_cima);
 //invocando as de baixo
 instance_create_layer(864, montanha1_y + 608, "Instances", obj_montanha_baixa);
+//melhorando o intervalo
 
-alarm[0] = room_speed * random_range(1, 2);
+var tempo_minimo = 1 / (1 + global.level * 0.1);
+
+alarm[0] = room_speed * random_range(tempo_minimo, 2); //criando as montanhas entre 1 a 2 segundos

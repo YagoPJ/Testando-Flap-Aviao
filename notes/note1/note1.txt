@@ -16,10 +16,21 @@
 	3.2 - Invocando as montanhas - ok
 	3.3 - Alterando a frequencia de invocação - ok
 	3.4 - Alterando a posição que elas vão ser invocadas - ok
+	3.5 - Aumentando a velocidade dependendo do level - ok
 	
 4 - Background
 	4.1 - Criando a sprite do back - ok 
 	4.2 - Colocando movimento no back - ok
-
+	4.3 - Criar um chão - ok
+	4.4 - Definir limites do background - ok
+	
 5 - Pontos
+	5.1 - Iniciando o sistema de pontos - ok
+	5.2 - Exibindos os pontos - ok
+	5.3 - Configurando a fonte - ok
+
+6 - Sistema de level
+	6.1 - Iniciando sistema de lvl - ok
+	6.2 - Ganhando level - ok
+	6.3 - Exibindo o level - ok
 	
