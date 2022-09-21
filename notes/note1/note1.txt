@@ -8,6 +8,7 @@
 	1.7 - Reiniciar ao colidir - ok
 	1.8 - Efeito de fumaça ao subir - ok
 	1.9 - Fazendo a fumaça crescer e desaparecer - ok
+	1.10 - Reiniciar o game ao sair da tela - ok
 	
 2 - Obstaculos
 	2.0 - Criar os sprites das montanhas - ok
@@ -39,3 +40,10 @@
 7 - Sons do jogo
 	7.1 - Importando som do jogo - ok
 	7.2 - Tocando a musica - ok
+	
+8 - Tela Inicial do Jogo
+	8.1 - Criando a room - ok
+	8.2 - Criando a sprite de apresentação - ok
+	8.3 - Animação da Sprite - ok
+	
+	

@@ -7,3 +7,11 @@ image_yscale += 0.02;
 
 //diminuindo o alfa da imagem começa no 1 termina no 0
 image_alpha -= 0.01;
+
+//me destruindo caso fique transparente
+
+if (image_alpha <= 0)
+{
+	instance_destroy();
+}
+	
